@@ -4,3 +4,6 @@
   transition: 0.5s; 
   letter-spacing: 3px;
 }
+.word:hover {
+  color:#005C53;
+}
